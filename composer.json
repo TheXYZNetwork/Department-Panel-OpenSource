@@ -1,0 +1,11 @@
+{
+    "require": {
+        "j0sh0nat0r/simple-cache": "^1.0",
+        "klein/klein": "^2.1",
+        "jenssegers/blade": "^1.4",
+        "vikas5914/steam-auth": "1.0.3",
+        "hassankhan/config": "^2.2",
+        "filp/whoops": "^2.12",
+        "palepurple/rate-limit": "^2.0"
+    }
+}
